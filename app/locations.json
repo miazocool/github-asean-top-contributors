@@ -1,0 +1,121 @@
+[
+    {
+        "location" : "indonesia",
+        "label" : "Indonesia",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [
+              "andrkr"
+          	],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "malaysia",
+        "label" : "Malaysia",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "singapore",
+        "label" : "Singapore",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "thailand",
+        "label" : "Thailand",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "cambodia",
+        "label" : "Cambodia",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "laos",
+        "label" : "Laos",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "myanmar",
+        "label" : "Myanmar",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "philippines",
+        "label" : "Philippines",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    },
+    {
+        "location" : "vietnam",
+        "label" : "Vietnam",
+        "search" : {
+            "include" : [],
+            "exclude" : [],
+            "users_out" : [],
+            "min_repos" : 0,
+            "min_followers" : -1,
+            "max_pages" : 5,
+            "max_users" : 20
+        }
+    }
+]
